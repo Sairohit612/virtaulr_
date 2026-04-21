@@ -499,7 +499,7 @@ export default function App() {
 
         {/* Footer */}
         <footer className="py-12 bg-[#13150f] text-center text-[#8b5a2b] font-medium text-sm border-t border-[#3e4431] tracking-widest uppercase">
-          <p>© 2024 Product Case Study. Designed for Portfolio.</p>
+          <p>© 2026 Product Case Study by N.S.ROHIT.</p>
         </footer>
       </div>
     </div>
